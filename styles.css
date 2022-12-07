@@ -20,7 +20,7 @@ body {
 }
 
 .card {
-    width: 324px;
+    width: 320px;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
