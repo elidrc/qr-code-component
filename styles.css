@@ -59,7 +59,7 @@ main {
     color: var(--grayish-blue);
     margin: 0 1rem;
     padding: 1rem;
-    font-size: 1rem;
+    font-size: 0.938rem;
     font-weight: 400;
     text-align: center;
 }
