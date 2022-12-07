@@ -43,7 +43,7 @@ main {
     width: 288px;
     height: 288px;
     border-radius: 0.625rem;
-    margin: 0.938rem 1rem;
+    margin: 1rem 1rem;
 }
 
 .card h1 {
@@ -59,7 +59,7 @@ main {
     color: var(--grayish-blue);
     margin: 0 1rem;
     padding: 1rem;
-    font-size: 0.938rem;
+    font-size: 1rem;
     font-weight: 400;
     text-align: center;
 }
