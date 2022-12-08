@@ -37,7 +37,7 @@ main {
 
 .card {
     max-width: 320px;
-    min-height: 500px;
+    /* min-height: 500px; */
     margin: 0.938rem;
     background-color: var(--white);
     border-radius: 1.25rem;
@@ -63,7 +63,7 @@ main {
 
 .card p {
     color: var(--grayish-blue);
-    margin: 0 1rem;
+    margin: 0 1rem 1.625rem;
     padding: 1rem;
     font-size: 0.938rem;
     font-weight: 400;
